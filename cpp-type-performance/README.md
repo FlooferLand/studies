@@ -17,3 +17,5 @@ All the numbers are in `study.txt`.
 There is also a chart (`chart.png`). Lower numbers are better.
 
 uint32_t and unsigned int (they're both technically the same) are the fastest ones (on AMD CPUs at least)
+
+> Feel free to use all the data from this study as long as you credit me somewhere.
