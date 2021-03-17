@@ -1,5 +1,5 @@
 # C++ type performance study
-Test: for looping the type until 127, and running that thousands of times to get more accurate numbers
+**Test:** for looping the type until 127, and running that thousands of times to get more accurate numbers
 
 Tested with a Ryzen 5 3600
 
