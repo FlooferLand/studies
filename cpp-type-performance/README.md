@@ -15,3 +15,5 @@ The tests were then ran again for the new study at the bottom and those numbers 
 All the numbers are in `study.txt`
 
 There is also a chart (`chart.png`). Lower numbers are better.
+
+uint32_t seems to be the fastest on my CPU.
